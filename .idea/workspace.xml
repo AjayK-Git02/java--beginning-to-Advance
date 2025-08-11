@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a06aeaf-2d38-46ff-a3b3-5abb5096af0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/3. Challanges/3. Challanges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/4. challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/AndBitwishand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/BitWishComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/OddEvenBitWiseOpration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/OrBitWiseOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/RightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/XorBitwiseOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/src/lestShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/4.5.if_else_and_logical.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/DGradesCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/ageCategorized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/greatestNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/leapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/numberIsOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/positiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Challenges/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/3 Datatypes/3 Datatypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/4 opertation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/src/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/src/Relational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/src/bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/src/learningIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/5.Loop_Arrays_Methods/5.Loop_Arrays_Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Lecture/Lecture codes/Lecture codes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/3. Challanges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/good_morning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/nameInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/parttenSinglePrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/3. Challanges/src/userInputAddNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/4. challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/AreaOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/CompoundInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/PerimterOfRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/SimpleInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/TemperatureConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/arithmatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/4. challenges/src/productOfFloatNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/Challenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenges/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIRST_Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/3 Datatypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/src/Escape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/src/input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/src/typeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/3 Datatypes/src/variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/4 opertation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/src/ArithmaticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/src/Assignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/src/OrderOfOperaton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/4 opertation/src/ShorthandOpreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/Lecture codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture codes/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AjayK-Git02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AjayK-Git02/java--beginning-to-Advance.git&quot;,
+    &quot;accountId&quot;: &quot;89d12948-2cb6-4930-bd40-335536b4f7c1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3161jO7Zj1ZrQswtcZrqvSJBdbD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BitWishComplement.executor": "Run",
+    "Application.Comments.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.DGradesCalculator.executor": "Run",
+    "Application.OddEvenBitWiseOpration.executor": "Run",
+    "Application.OrBitWiseOperation.executor": "Run",
+    "Application.Relational.executor": "Run",
+    "Application.RightShift.executor": "Run",
+    "Application.XorBitwiseOperation.executor": "Run",
+    "Application.ageCategorized.executor": "Run",
+    "Application.bitwise.executor": "Run",
+    "Application.bitwishand.executor": "Run",
+    "Application.good_morning.executor": "Run",
+    "Application.greatestNumberChecker.executor": "Run",
+    "Application.leapYear.executor": "Run",
+    "Application.learningIF.executor": "Run",
+    "Application.lestShift.executor": "Run",
+    "Application.numberIsOddEven.executor": "Run",
+    "Application.positiveNegativeZero.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Ajay kumar rns/Desktop/Java/1. Lecture/Lecture codes/5.Loop_Arrays_Methods/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ajay kumar rns\Desktop\Java\1. Lecture\Challenges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Comments">
+    <configuration name="BitWishComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitWishComplement" />
+      <module name="4. challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comments" />
+      <module name="5.Loop_Arrays_Methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenBitWiseOpration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEvenBitWiseOpration" />
+      <module name="4. challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RightShift" />
+      <module name="4. challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lestShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lestShift" />
+      <module name="4. challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Comments" />
+        <item itemvalue="Application.OddEvenBitWiseOpration" />
+        <item itemvalue="Application.RightShift" />
+        <item itemvalue="Application.lestShift" />
+        <item itemvalue="Application.BitWishComplement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a06aeaf-2d38-46ff-a3b3-5abb5096af0d" name="Changes" comment="" />
+      <created>1754829843615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754829843615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/src/DGradesCalculator.java</url>
+          <line>3</line>
+          <properties class="DGradesCalculator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lecture codes/3 Datatypes/3 Datatypes.iml" filepath="$PROJECT_DIR$/Lecture codes/3 Datatypes/3 Datatypes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Challenges/3. Challanges/3. Challanges.iml" filepath="$PROJECT_DIR$/Challenges/3. Challanges/3. Challanges.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture codes/4 opertation/4 opertation.iml" filepath="$PROJECT_DIR$/Lecture codes/4 opertation/4 opertation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Challenges/4. challenges/4. challenges.iml" filepath="$PROJECT_DIR$/Challenges/4. challenges/4. challenges.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FIRST_Project.iml" filepath="$PROJECT_DIR$/FIRST_Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture codes/Lecture codes.iml" filepath="$PROJECT_DIR$/Lecture codes/Lecture codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Lecture codes/3 Datatypes/3 Datatypes.iml" filepath="$PROJECT_DIR$/1. Lecture/Lecture codes/3 Datatypes/3 Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Challenges/3. Challanges/3. Challanges.iml" filepath="$PROJECT_DIR$/1. Lecture/Challenges/3. Challanges/3. Challanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/4 opertation.iml" filepath="$PROJECT_DIR$/1. Lecture/Lecture codes/4 opertation/4 opertation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/4. challenges.iml" filepath="$PROJECT_DIR$/1. Lecture/Challenges/4. challenges/4. challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/4.5.if_else_and_logical.iml" filepath="$PROJECT_DIR$/1. Lecture/Challenges/4.5.if_else_and_logical/4.5.if_else_and_logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Lecture codes/5.Loop_Arrays_Methods/5.Loop_Arrays_Methods.iml" filepath="$PROJECT_DIR$/1. Lecture/Lecture codes/5.Loop_Arrays_Methods/5.Loop_Arrays_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/1. Lecture/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Lecture/Lecture codes/Lecture codes.iml" filepath="$PROJECT_DIR$/1. Lecture/Lecture codes/Lecture codes.iml" />
     </modules>
   </component>
 </project>
